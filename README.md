@@ -50,14 +50,14 @@ Everyone wants to know how much this going to cost, we haven’t figured that ou
 
 Existing Pricing:
 
-| Service | Monthly Price | Average Cost per Month |  |
+| Service | Monthly Price | Average Cost per Month | Max Retention |
 | --- | --- | --- | --- |
-| AWS Metrics | $0.30 / Metric | $30000 | 15 months retention |
+| AWS Metrics | $0.30 / Metric | $30000 | 15 months |
 | DataDog | $0.05 / metric | $5000 (Requires Enterprise Plan?) |  |
 | InfluxData | charges by data | No public pricing |  |
-| Grafana | $0.08 / Metric + Per User Pricing ($8 / user) | $10k | 13 months retention |
-| New Relic | * Per User Pricing ($420 / user) * $0.50 / GB | $100k | 16 months retention |
-| Our Cloud Metrics Service | $0.05 / metric | $5000 | 5 Years retention |
+| Grafana | $0.08 / Metric + Per User Pricing ($8 / user) | $10k | 13 months |
+| New Relic | * Per User Pricing ($420 / user) * $0.50 / GB | $100k | 16 months |
+| Our Cloud Metrics Service | $0.05 / metric | $5000 | 5 Years |
 
 # Letters of Intent to purchase
 
