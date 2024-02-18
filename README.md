@@ -10,7 +10,7 @@ There are no existing solutions that have an appropriate **charge by usage** str
 
 **Core Value Proposition:**
 
-- Affordable - Charges by Value Not Seat
+- Affordable - Charges by Value, Not by Seat
 - Serverless first - Serverless is a core competency and focus of the product, however will support any data source that can push metrics.
 - Longevity - let's us track data over longish periods of time, many business needs require years of data, multiyear retention by default, decades optional
 
@@ -57,7 +57,7 @@ Existing Pricing:
 | InfluxData | charges by data | No public pricing |  |
 | Grafana | $0.08 / Metric + Per User Pricing ($8 / user) | $10k | 13 months retention |
 | New Relic | * Per User Pricing ($420 / user) * $0.50 / GB | $100k | 16 months retention |
-| Our Cloud Metrics Service |  | Cheaper!! | 5 Years retention |
+| Our Cloud Metrics Service | $0.05 / metric | $5000 | 5 Years retention |
 
 # Letters of Intent to purchase
 
