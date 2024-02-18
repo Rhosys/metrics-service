@@ -57,7 +57,7 @@ Existing Pricing:
 | InfluxData | charges by data | No public pricing |  |
 | Grafana | $0.08 / Metric + Per User Pricing ($8 / user) | $10k | 13 months |
 | New Relic | * Per User Pricing ($420 / user) * $0.50 / GB | $100k | 16 months |
-| MetricFire | $0.10 / Metric | $10k | 2 yeacn |
+| MetricFire | $0.10 / Metric | $10k | 2 years |
 | Our Cloud Metrics Service | $0.05 / metric | $5000 | 5 Years |
 
 # Letters of Intent to purchase
