@@ -1,6 +1,6 @@
 # The Cloud Metrics (Name TBD)
 
-The Cloud Metrics service focuses on Custom Metrics that automatically scale with your needs.
+The Rhosys team is releasing the first ever Cloud Metrics as a Service. That focuses on pricing, data rention, and dashboards. We believe in no more `Change by Seat`. The Cloud Metrics service focuses on Custom Metrics that automatically scale with your needs.
 
 _Star the repo and watch it for changes and future releases. Have a question or comment, feel free to open an [issue ticket](https://github.com/Rhosys/metrics-service/issues)._
 
